@@ -10,9 +10,8 @@ The data contains two sheets:
   2. Data 
 ## Tools
 This project was done in 
-- *Power BI Desktop*
+- *Power BI Desktop* [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - *Power Query*
-[Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494) 
 ## Data Cleaning and preparation
 ## Exploratory Data Analysis
 ## Data Analysis 

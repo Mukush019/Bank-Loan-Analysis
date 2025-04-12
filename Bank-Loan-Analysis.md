@@ -13,6 +13,14 @@ This project was done in
 - *Power BI Desktop* [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - *Power Query*
 ## Data Cleaning and preparation
+
+A custom column 'Morgage_Flag' was added where an M language was written.
+```M
+if morgage = 0
+then 0
+else 1
+```
+The original morgage column was then deleted. 
 ## Exploratory Data Analysis
 ## Data Analysis 
 ## Results and Findings

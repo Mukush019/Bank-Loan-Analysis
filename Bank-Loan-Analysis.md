@@ -23,7 +23,8 @@ else 1
 The original mortgage column was then deleted. 
 ## Exploratory Data Analysis
 - What is the personal loan rate?
-- 
+- How does credit card spending relate to taking a personal loan?
+- How does education affect the personal loan rate?
 ## Data Analysis 
 ## Results and Findings
 ## Recomendation

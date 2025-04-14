@@ -14,14 +14,16 @@ This project was done in
 - *Power Query*
 ## Data Cleaning and preparation
 
-A custom column 'Morgage_Flag' was added where an M language was written.
+A custom column, 'Mortgage_Flag', was added where an M language was written.
 ```M
 if morgage = 0
 then 0
 else 1
 ```
-The original morgage column was then deleted. 
+The original mortgage column was then deleted. 
 ## Exploratory Data Analysis
+- What is the personal loan rate?
+- 
 ## Data Analysis 
 ## Results and Findings
 ## Recomendation

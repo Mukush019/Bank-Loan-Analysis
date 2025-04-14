@@ -23,8 +23,12 @@ else 1
 The original mortgage column was then deleted. 
 ## Exploratory Data Analysis
 - What is the personal loan rate?
+- What percentage of customers have a CD account? 
+- What is the average income?
 - How does credit card spending relate to taking a personal loan?
 - How does education affect the personal loan rate?
+- What is the correlation between average income and personal loan?
+- How do credit spending, CD accounts, and personal loans correlate?
 ## Data Analysis 
 ## Results and Findings
 ## Recomendation

@@ -32,4 +32,5 @@ The original mortgage column was then deleted.
 ## Data Analysis
 
 ## Results and Findings
+
 ## Recomendation

@@ -29,6 +29,7 @@ The original mortgage column was then deleted.
 - How does education affect the personal loan rate?
 - What is the correlation between average income and personal loan?
 - How do credit spending, CD accounts, and personal loans correlate?
-## Data Analysis 
+## Data Analysis
+
 ## Results and Findings
 ## Recomendation

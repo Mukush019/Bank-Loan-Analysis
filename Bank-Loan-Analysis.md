@@ -12,7 +12,7 @@ The data contains two sheets:
 This project was done in 
 - *Power BI Desktop* [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - *Power Query*
-## Data Cleaning and preparation
+## Data Cleaning and Preparation
 
 A custom column, 'Mortgage_Flag', was added where an M language was written.
 ```M

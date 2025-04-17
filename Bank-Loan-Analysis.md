@@ -9,7 +9,7 @@ The data contains two sheets:
   1. Description - contains a brief description of the columns in the data.
   2. Data 
 ## Tools
-This project was done in 
+This project was done in: 
 - *Power BI Desktop* [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - *Power Query*
 ## Data Cleaning and Preparation

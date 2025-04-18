@@ -36,7 +36,10 @@ Personal Loan Rate = DIVIDE(
                             SUM(Data[Personal Loan]),
                                 COUNT(Data[Personal Loan])
                            )
-``` 
+```
+![image](https://github.com/user-attachments/assets/85fda492-e6cf-481e-853d-461b79b1715f)
+
+-  
 ## Results and Findings
 
 ## Recomendation

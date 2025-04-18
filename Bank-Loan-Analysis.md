@@ -30,7 +30,13 @@ The original mortgage column was then deleted.
 - What is the correlation between average income and personal loans?
 - How do credit spending, CD accounts, and personal loans correlate?
 ## Data Analysis
-
+- Personal Loan Rate
+ ```dax
+Personal Loan Rate = DIVIDE(
+                            SUM(Data[Personal Loan]),
+                                COUNT(Data[Personal Loan])
+                           )
+``` 
 ## Results and Findings
 
 ## Recomendation

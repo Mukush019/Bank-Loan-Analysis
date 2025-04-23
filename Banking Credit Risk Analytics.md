@@ -40,8 +40,7 @@ Personal Loan Rate = DIVIDE(
 ![image](https://github.com/user-attachments/assets/85fda492-e6cf-481e-853d-461b79b1715f)
 
 - Personal Loan Rate vs Education
-  - Where 1 = Undergraduate 2 = Graduate 3 = Prfessiona/ Advanced
-![image](https://github.com/user-attachments/assets/144ea689-890d-4460-9b0e-03250976bd2d)
+  
   
 - Personal Loan Rate vs Family Size
 ![image](https://github.com/user-attachments/assets/ec41049c-340d-4fc6-9869-57c3160b794e)

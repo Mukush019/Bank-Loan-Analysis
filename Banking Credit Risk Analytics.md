@@ -43,16 +43,13 @@ Personal Loan Rate = DIVIDE(
   
   
 - Personal Loan Rate vs Family Size
-![image](https://github.com/user-attachments/assets/ec41049c-340d-4fc6-9869-57c3160b794e)
 
 - Personal Loan Rate vs Mortgage
-![image](https://github.com/user-attachments/assets/f405ee7c-4fce-4210-b999-6b3dfe251fbd)
 
 - Personal Loan Rate vs Securities Account
-![image](https://github.com/user-attachments/assets/8345e644-007f-4e6d-b724-f417e2541627)
 
 - Personal Loan Rate vs Deposit Account
-![image](https://github.com/user-attachments/assets/feb51d40-72ac-4d6c-98c3-8dea6e23b0bd)
+
 
 ## Results and Findings
 

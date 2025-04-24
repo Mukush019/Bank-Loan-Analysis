@@ -39,11 +39,6 @@ Personal Loan Rate = DIVIDE(
 ```
 ![image](https://github.com/user-attachments/assets/85fda492-e6cf-481e-853d-461b79b1715f)
 
-- Personal Loan Rate vs Education
-  
-  
-
-
 ## Results and Findings
 
 ## Recomendation

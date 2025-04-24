@@ -42,13 +42,6 @@ Personal Loan Rate = DIVIDE(
 - Personal Loan Rate vs Education
   
   
-- Personal Loan Rate vs Family Size
-
-- Personal Loan Rate vs Mortgage
-
-- Personal Loan Rate vs Securities Account
-
-- Personal Loan Rate vs Deposit Account
 
 
 ## Results and Findings
